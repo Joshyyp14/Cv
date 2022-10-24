@@ -11,8 +11,11 @@ hr {
 }
 h1{
   color: #2192FF;
-
+font-style: italic;
+  font-family: sans-serif;
 }
 h3{
   color: #2192FF;
+  font-style: italic;
+  font-family: sans-serif;
 }
